@@ -1,13 +1,9 @@
----
-title: Cyberpatriot Competition Preparation
----
-
 >[!danger] Don't be stupid. Access to these resources is a privilege.
 
 >For actions that require an admin password, ask Mrs. Christie
 
 >**BE RESPONSIBLE**
-## <u>Competition Preparation</u>
+## Competition Preparation
 ### Resources Preparation
 1. Each team should need no more than 5 laptops, one per team member competing at a time. Label each using your team name and what image it will be used for:
 	- Ubuntu/Mint
@@ -40,7 +36,7 @@ Prior to competition (as early as you can), download the respective images on ea
 - Save the images to `C:\Users\Public\Downloads` (the directory should be empty).
 - Verify the images using WinMD5 (downloaded in previous steps).
 >[!warning] **Do not extract until competition day**
-## <u>Competition Day</u>
+## Competition Day
 You will be assigned either a spot in Mrs. Christie's room or your own private room to compete in. Ensure you have all of your laptops, chargers, and any other resources you may need.
 
 <b>For laptops with images:</b>
@@ -59,12 +55,12 @@ You will be assigned either a spot in Mrs. Christie's room or your own private r
 2. Complete the Netacad quiz and download the packet tracer assignment.
 	- **Save every 15 minutes** and submit the assignment when finished.
 	- Delete all files from the device upon completion.
-## <u>Post-competition round</u>
+## Post-competition round
 1. Ensure you have selected `Stop scoring` when finished with the images.
 2. Power off the virtual machines. **Do not suspend**.
 3. Delete all images in `C:\Users\Public\Downloads`
 4. Pack up all belongings and resources and use the picture to restore your workspace to its original state.
-## <u>Troubleshooting</u>
+## Troubleshooting
 
 >[!example]- Scoring report issues
 >Ensure your Unique Identifier was entered correctly. You cannot enter your UID too many times. You can also check the Scoring Report for any errors. If all else fails: Power off, delete, re-extract, and power back on your virtual machine. **Will reset scoring, ensure you have taken pictures of your scoring reports**
@@ -83,17 +79,17 @@ You will be assigned either a spot in Mrs. Christie's room or your own private r
 >[!example]- Other problems
 >Use online resources to troubleshoot the problem. If all else fails, ask Hugh or Owen.
 
-## <u>Tips and Tricks</u>
+## Tips and Tricks
 - **Windows**: Use `secpol.msc` for additional points; read the Readme closely
 - **Windows Server**: Identify and harden the server type by removing unnecessary packages.
 - **Ubuntu/Debian**: Familiarize yourself with terminal file navigation and commands. The terminal is extremely powerful when used correctly.
 - The netacad course provides everything for a high score; use the built in Netacad Ctrl + F to quickly find answers during tests.
-## <u>Networing Tips</u>
+## Networing Tips
 - Study the netacad course: All test and Cisco Packet Tracer activity content is here.
 - Preview competition topics: Review the modules needed for each round at the [CyberPatriot Website](https://www.uscyberpatriot.org/competition/current-competition/challenges-by-round).
 - Understand core concepts: For each unit, know both the what and why of the topics.
 
-## <u>ChatGPT and LLM usage</u>
+## ChatGPT and LLM usage
 According to CyberPatriot's website, you are permitted to use ChatGPT and other generative AI/LLMs to assist you **outside of competitions**. Meaning, you are allowed to use it to help you make scripts, plan competitions, etc, as long as it is not being used during a competition round.
 
 >[!danger] Failure to comply with this *might* get you disqualified. I wouldn't test it.
