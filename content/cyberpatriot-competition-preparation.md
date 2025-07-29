@@ -1,3 +1,6 @@
+---
+title: CyberPatriot Competition Preparation
+---
 >[!danger] Don't be stupid. Access to these resources is a privilege.
 
 >For actions that require an admin password, ask Mrs. Christie
